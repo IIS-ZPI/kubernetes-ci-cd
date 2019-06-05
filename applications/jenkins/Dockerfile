@@ -1,4 +1,5 @@
-FROM jenkins/jenkins:2.136
+FROM jenkins/jenkins:latest
+#FROM jenkinsci/blueocean:latest
 USER root
 
 #Pre-Install Jenkins Plugins
