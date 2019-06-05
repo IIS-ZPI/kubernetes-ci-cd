@@ -55,7 +55,7 @@ Enable the Minikube add-ons Heapster and Ingress.
 
 View the Minikube Dashboard, a web UI for managing deployments.
 
-`minikube service kubernetes-dashboard --namespace kube-system`
+`minikube dashboard`
 
 #### Step4
 
