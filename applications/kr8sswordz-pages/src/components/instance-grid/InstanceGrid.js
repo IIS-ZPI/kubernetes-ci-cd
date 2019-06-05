@@ -27,7 +27,8 @@ function InstanceGrid (props) {
       </div>
       <div className="scale-hints">
         <p>Choose the number of instances you want to scale in your cluster and click "Scale".
-          This will call our service and scale up the number of replicas to the desired size. </p>
+          This will call our service and scale up the number of replicas to the desired size.
+          Results can be verified in minikube dashboard </p>
       </div>
     </div>
   );
